@@ -1,3 +1,3 @@
-﻿# Primeira-API
+﻿# Primeira API
 
-Sem ajuda de tutorial e sem banco de dados
+Api super simples feito sem ajuda de tutorial e sem banco de dados
