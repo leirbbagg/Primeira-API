@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\SegundaAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7426883D-0B4E-4DE7-B2B2-4AEC8721EAFD}|SegundaAPI\\SegundaAPI.csproj|c:\\users\\user\\source\\repos\\segundaapi\\segundaapi\\models\\leaguefootball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7426883D-0B4E-4DE7-B2B2-4AEC8721EAFD}|SegundaAPI\\SegundaAPI.csproj|solutionrelative:segundaapi\\models\\leaguefootball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7426883D-0B4E-4DE7-B2B2-4AEC8721EAFD}|SegundaAPI\\SegundaAPI.csproj|c:\\users\\user\\source\\repos\\segundaapi\\segundaapi\\models\\footballteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7426883D-0B4E-4DE7-B2B2-4AEC8721EAFD}|SegundaAPI\\SegundaAPI.csproj|solutionrelative:segundaapi\\models\\footballteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7426883D-0B4E-4DE7-B2B2-4AEC8721EAFD}|SegundaAPI\\SegundaAPI.csproj|c:\\users\\user\\source\\repos\\segundaapi\\segundaapi\\models\\interface\\ifootballteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7426883D-0B4E-4DE7-B2B2-4AEC8721EAFD}|SegundaAPI\\SegundaAPI.csproj|solutionrelative:segundaapi\\models\\interface\\ifootballteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7426883D-0B4E-4DE7-B2B2-4AEC8721EAFD}|SegundaAPI\\SegundaAPI.csproj|c:\\users\\user\\source\\repos\\segundaapi\\segundaapi\\controllers\\leaguefootballcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7426883D-0B4E-4DE7-B2B2-4AEC8721EAFD}|SegundaAPI\\SegundaAPI.csproj|solutionrelative:segundaapi\\controllers\\leaguefootballcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7426883D-0B4E-4DE7-B2B2-4AEC8721EAFD}|SegundaAPI\\SegundaAPI.csproj|c:\\users\\user\\source\\repos\\segundaapi\\segundaapi\\models\\generateteams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7426883D-0B4E-4DE7-B2B2-4AEC8721EAFD}|SegundaAPI\\SegundaAPI.csproj|solutionrelative:segundaapi\\models\\generateteams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7426883D-0B4E-4DE7-B2B2-4AEC8721EAFD}|SegundaAPI\\SegundaAPI.csproj|c:\\users\\user\\source\\repos\\segundaapi\\segundaapi\\models\\ecountry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7426883D-0B4E-4DE7-B2B2-4AEC8721EAFD}|SegundaAPI\\SegundaAPI.csproj|solutionrelative:segundaapi\\models\\ecountry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7426883D-0B4E-4DE7-B2B2-4AEC8721EAFD}|SegundaAPI\\SegundaAPI.csproj|c:\\users\\user\\source\\repos\\segundaapi\\segundaapi\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7426883D-0B4E-4DE7-B2B2-4AEC8721EAFD}|SegundaAPI\\SegundaAPI.csproj|solutionrelative:segundaapi\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 332,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IFootballTeam.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SegundaAPI\\SegundaAPI\\Models\\Interface\\IFootballTeam.cs",
+              "RelativeDocumentMoniker": "SegundaAPI\\Models\\Interface\\IFootballTeam.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SegundaAPI\\SegundaAPI\\Models\\Interface\\IFootballTeam.cs",
+              "RelativeToolTip": "SegundaAPI\\Models\\Interface\\IFootballTeam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T13:06:39.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LeagueFootballController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SegundaAPI\\SegundaAPI\\Controllers\\LeagueFootballController.cs",
+              "RelativeDocumentMoniker": "SegundaAPI\\Controllers\\LeagueFootballController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SegundaAPI\\SegundaAPI\\Controllers\\LeagueFootballController.cs",
+              "RelativeToolTip": "SegundaAPI\\Controllers\\LeagueFootballController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwBkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T13:18:16.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SegundaAPI\\SegundaAPI\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "SegundaAPI\\Controllers\\TestController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SegundaAPI\\SegundaAPI\\Controllers\\TestController.cs",
+              "RelativeToolTip": "SegundaAPI\\Controllers\\TestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T13:13:17.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ECountry.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SegundaAPI\\SegundaAPI\\Models\\ECountry.cs",
+              "RelativeDocumentMoniker": "SegundaAPI\\Models\\ECountry.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SegundaAPI\\SegundaAPI\\Models\\ECountry.cs",
+              "RelativeToolTip": "SegundaAPI\\Models\\ECountry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T12:52:20.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenerateTeams.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SegundaAPI\\SegundaAPI\\Models\\GenerateTeams.cs",
+              "RelativeDocumentMoniker": "SegundaAPI\\Models\\GenerateTeams.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SegundaAPI\\SegundaAPI\\Models\\GenerateTeams.cs",
+              "RelativeToolTip": "SegundaAPI\\Models\\GenerateTeams.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T12:56:51.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LeagueFootball.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SegundaAPI\\SegundaAPI\\Models\\LeagueFootball.cs",
+              "RelativeDocumentMoniker": "SegundaAPI\\Models\\LeagueFootball.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SegundaAPI\\SegundaAPI\\Models\\LeagueFootball.cs",
+              "RelativeToolTip": "SegundaAPI\\Models\\LeagueFootball.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T12:54:49.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FootballTeam.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SegundaAPI\\SegundaAPI\\Models\\FootballTeam.cs",
+              "RelativeDocumentMoniker": "SegundaAPI\\Models\\FootballTeam.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SegundaAPI\\SegundaAPI\\Models\\FootballTeam.cs",
+              "RelativeToolTip": "SegundaAPI\\Models\\FootballTeam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T12:45:31.791Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 68,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
